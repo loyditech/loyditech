@@ -20,9 +20,6 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=loyditech&theme=radical&hide_border=true&cache_seconds=86400" alt="loyditech's GitHub Streak" width="49%" />
 </p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=loyditech&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mark John Lloyd Ncinas's GitHub Trophies" />
-</p>
 
 
 ## 🛠️ Languages & Tools
