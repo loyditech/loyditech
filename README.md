@@ -10,7 +10,7 @@
 ## 📌 About Me
 - 🔭 Currently building my foundation in Cloud and DevOps engineering
 - 🌱 Learning AWS, Linux administration, and infrastructure automation
-- 🛠️ I enjoy automating things — from server monitoring scripts to deployment pipelines
+- 🛠️ I enjoy automating things, from server monitoring scripts to deployment pipelines
 
 
 ## 📊 GitHub Stats & Trophies
