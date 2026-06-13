@@ -13,7 +13,7 @@
 - 🛠️ I enjoy automating things, from server monitoring scripts to deployment pipelines
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats 
 <p align="center">
   <a href="https://github.com/loyditech">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=loyditech&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="loyditech's GitHub Stats" />
@@ -37,7 +37,6 @@
 <h3 align="center">Backend</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" width="40" />
 
 </p>
