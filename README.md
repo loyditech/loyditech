@@ -6,17 +6,7 @@
 </p>
 
 
-
-## 📌 About Me
-- 🔭 Currently building my foundation in Cloud and DevOps engineering
-- 🌱 Learning AWS, Linux administration, and infrastructure automation
-- 🛠️ I enjoy automating things, from server monitoring scripts to deployment pipelines
-
-
 <p align="center">
-  <a href="https://github.com/loyditech">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=loyditech&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="loyditech's GitHub Stats" />
-  </a>
   <img src="https://streak-stats.demolab.com/?user=loyditech&theme=radical&hide_border=true&cache_seconds=86400" alt="loyditech's GitHub Streak" width="49%" />
 </p>
 
