@@ -13,7 +13,6 @@
 - 🛠️ I enjoy automating things, from server monitoring scripts to deployment pipelines
 
 
-## 📊 GitHub Stats 
 <p align="center">
   <a href="https://github.com/loyditech">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=loyditech&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="loyditech's GitHub Stats" />
